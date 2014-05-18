@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dive xmlns="http://schemas.datacontract.org/2004/07/Suunto.Diving.Dal" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<AltitudeMode>0</AltitudeMode>
+	<AscentTime>0</AscentTime>
+	<Boat i:nil="true"/>
+	<BottomTemperature>16</BottomTemperature>
+	<BottomTime>0</BottomTime>
+	<CnsEnd>0</CnsEnd>
+	<CnsStart>0</CnsStart>
+	<CylinderVolume>20</CylinderVolume>
+	<CylinderWorkPressure>232000</CylinderWorkPressure>
+	<Deleted i:nil="true"/>
+	<DeltaPressure>90000</DeltaPressure>
+	<DiveMixtures>
+		<DiveMixture>
+			<DiveGasChanges>
+				<DiveGasChange>
+					<GasChangeTime>0</GasChangeTime>
+					<PO2>1.3</PO2>
+					<SetPointType>0</SetPointType>
+				</DiveGasChange>
+			</DiveGasChanges>
+			<EndPressure>0</EndPressure>
+			<Helium>0</Helium>
+			<Name i:nil="true"/>
+			<Oxygen>21</Oxygen>
+			<PO2>0</PO2>
+			<Size>0</Size>
+			<StartPressure>0</StartPressure>
+			<Type>1</Type>
+		</DiveMixture>
+	</DiveMixtures>
+	<DiveNumberInSerie>1</DiveNumberInSerie>
+	<DiveSamples>
+		<Dive.Sample>
+			<Depth>0</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.9624</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.7912</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.8768</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.572</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.8768</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.572</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.572</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.572</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.9624</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.9624</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.7432</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.7432</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.7432</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>1.524</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>1.524</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.048</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.7432</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.048</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.7432</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.048</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.9624</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.9624</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.8768</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.7912</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.572</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.572</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.572</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.572</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.572</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.8768</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.8768</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.8768</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.8768</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.8768</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.7912</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.7912</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.096</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.4008</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.7056</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.4008</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.096</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.8768</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.9624</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.8768</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.9624</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.572</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.572</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.7912</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.4008</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.4008</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.7912</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.096</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.096</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.7912</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.8768</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.9624</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.8768</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.8768</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.0104</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.3152</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.3152</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.7056</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.7056</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.3152</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.3152</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.4008</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.572</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.9624</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.9624</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.096</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.4008</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.4008</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.4008</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.7056</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.0104</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.7056</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.3152</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.62</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.0104</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.0104</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.3152</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.62</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.62</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.62</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.9248</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.9248</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.3152</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.3152</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.7056</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.7056</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.4008</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.4008</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.096</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.7912</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.4008</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.7056</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.62</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.9248</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.62</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.62</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.62</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>7.3152</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.7056</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.4008</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.096</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>6.096</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.572</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.1816</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>5.4864</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.8768</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>4.2672</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.6576</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.9624</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.9624</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.9624</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.048</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.3528</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>3.048</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.7432</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.7432</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.7432</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>1.8288</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>1.8288</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>1.8288</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.7432</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.7432</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.7432</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.7432</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>1.8288</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>1.524</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>1.8288</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>1.524</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>1.524</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>1.524</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>1.8288</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.4384</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+		<Dive.Sample>
+			<Depth>2.1336</Depth>
+			<Pressure i:nil="true"/>
+			<Temperature i:nil="true"/>
+		</Dive.Sample>
+	</DiveSamples>
+	<DiveTags/>
+	<DiveTime>2440</DiveTime>
+	<DivingDaysInRow>3</DivingDaysInRow>
+	<Duration>2450</Duration>
+	<EndPressure>98000</EndPressure>
+	<EndTemperature>17</EndTemperature>
+	<Marks>
+		<Mark>
+			<Heading i:nil="true"/>
+			<MarkTime>420</MarkTime>
+			<Type>19</Type>
+		</Mark>
+		<Mark>
+			<Heading i:nil="true"/>
+			<MarkTime>421</MarkTime>
+			<Type>19</Type>
+		</Mark>
+		<Mark>
+			<Heading i:nil="true"/>
+			<MarkTime>1210</MarkTime>
+			<Type>17</Type>
+		</Mark>
+		<Mark>
+			<Heading i:nil="true"/>
+			<MarkTime>1300</MarkTime>
+			<Type>17</Type>
+		</Mark>
+		<Mark>
+			<Heading i:nil="true"/>
+			<MarkTime>1300</MarkTime>
+			<Type>19</Type>
+		</Mark>
+		<Mark>
+			<Heading i:nil="true"/>
+			<MarkTime>1410</MarkTime>
+			<Type>17</Type>
+		</Mark>
+		<Mark>
+			<Heading i:nil="true"/>
+			<MarkTime>1430</MarkTime>
+			<Type>17</Type>
+		</Mark>
+		<Mark>
+			<Heading i:nil="true"/>
+			<MarkTime>2330</MarkTime>
+			<Type>19</Type>
+		</Mark>
+		<Mark>
+			<Heading i:nil="true"/>
+			<MarkTime>2400</MarkTime>
+			<Type>19</Type>
+		</Mark>
+		<Mark>
+			<Heading i:nil="true"/>
+			<MarkTime>2410</MarkTime>
+			<Type>19</Type>
+		</Mark>
+		<Mark>
+			<Heading i:nil="true"/>
+			<MarkTime>2450</MarkTime>
+			<Type>19</Type>
+		</Mark>
+	</Marks>
+	<MaxDepth>7.92</MaxDepth>
+	<Mode>1</Mode>
+	<Note>Suunto Diver</Note>
+	<OlfEnd>0</OlfEnd>
+	<OtuEnd>0</OtuEnd>
+	<OtuStart>0</OtuStart>
+	<PersonalMode>0</PersonalMode>
+	<PressureBlob/>
+	<PreviousMaxDepth>16.76</PreviousMaxDepth>
+	<ProfileBlob>AAAAAL8OHEAeFmpARpRWQB4WakAeFmpA9pd9QOeMiEDnjIhAq8+lQJeQr0CDUblAq8+lQKvPpUCrz6VAl5CvQL8OnEDTTZJAvw6cQNNNkkDTTZJA002SQOeMiEDnjIhA54yIQOeMiED2l31A9pd9QB4WakAeFmpAHhZqQB4WakBGlFZAHhZqQEaUVkAeFmpARpRWQEaUVkCXkC9Al5AvQJeQL0DnjAhAbxLDP28Swz+/DhxAvw4cQL8OHEBvEkNAl5AvQG8SQ0BGlFZARpRWQJeQL0BGlFZAHhZqQEaUVkBvEkNAHhZqQEaUVkAeFmpARpRWQB4WakD2l31A54yIQB4WakD2l31A54yIQOeMiEDnjIhAvw6cQKvPpUCrz6VAq8+lQKvPpUCDUblAl5CvQNNNkkDnjIhA54yIQOeMiEDTTZJA002SQNNNkkDTTZJAvw6cQL8OnECXkK9Al5CvQL8OnEC/DpxAl5CvQKvPpUCrz6VAl5CvQJeQr0C/DpxAq8+lQINRuUCDUblAl5CvQKvPpUCXkK9AbxLDQFvTzEBGlNZAW9PMQG8Sw0Crz6VAvw6cQPaXfUDnjIhAvw6cQOeMiED2l31AHhZqQNNNkkDTTZJAl5CvQINRuUBb08xAW9PMQINRuUDnjIhAl5CvQG8Sw0BvEsNAl5CvQINRuUC/DpxA9pd9QOeMCEAeFmpAvw6cQL8OnEAyVeBAHhbqQB4W6kBGlNZARpTWQB4W6kAeFupAW9PMQNNNkkD2l31A9pd9QOeMiECrz6VAbxLDQFvTzEBb08xAW9PMQEaU1kAyVeBARpTWQB4W6kAK1/NAMlXgQDJV4EAeFupACtfzQArX80AK1/NA9pf9QPaX/UAeFupAHhbqQEaU1kBGlNZAW9PMQFvTzEBvEsNAg1G5QFvTzEBGlNZACtfzQPaX/UAK1/NACtfzQArX80AeFupARpTWQFvTzEBvEsNAbxLDQJeQr0DTTZJAq8+lQJeQr0C/DpxA54yIQB4WakD2l31A9pd9QPaXfUBGlFZARpRWQG8SQ0BGlFZARpRWQG8SQ0CXkC9A54wIQJeQL0C/DhxA54wIQJeQL0C/DhxA54wIQB4W6j+/DhxAvw4cQOeMCEAeFuo/54wIQB4W6j/njAhA54wIQL8OHECXkC9Avw4cQL8OHEC/DhxA54wIQOeMCEDnjAhAvw4cQJeQL0CXkC9Al5AvQOeMCEC/DhxAvw4cQB4W6j9vEsM/54wIQOeMCEAeFuo/bxLDP28Swz9vEsM/HhbqP+eMCEC/DhxA54wIQOeMCEA=</ProfileBlob>
+	<SampleInterval>10</SampleInterval>
+	<SetPoint>0</SetPoint>
+	<Source>Vytec</Source>
+	<SourceSerialNumber>344784</SourceSerialNumber>
+	<StartPressure>188000</StartPressure>
+	<StartTemperature>20</StartTemperature>
+	<StartTime>2001-08-06T18:12:00</StartTime>
+	<SurfacePressure i:nil="true"/>
+	<SurfaceTime>70260</SurfaceTime>
+	<TemperatureBlob/>
+	<TissuePressuresHeliumEnd xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/>
+	<TissuePressuresHeliumEndBlob i:nil="true"/>
+	<TissuePressuresHeliumStart xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/>
+	<TissuePressuresHeliumStartBlob i:nil="true"/>
+	<TissuePressuresNitrogenEnd xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/>
+	<TissuePressuresNitrogenEndBlob i:nil="true"/>
+	<TissuePressuresNitrogenStart xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/>
+	<TissuePressuresNitrogenStartBlob i:nil="true"/>
+	<Visibility i:nil="true"/>
+	<Weather i:nil="true"/>
+	<Weight i:nil="true"/>
+</Dive>
